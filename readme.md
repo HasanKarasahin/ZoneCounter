@@ -4,3 +4,7 @@
 Yukarıda verilen şekil temsili bir haritayı göstermektedir. Siyah çizgiler, coğrafi bölgeleri birbirinden
 ayıran sınırlardır. Verilen harita içerisinde, mevcut sınırlar ile birbirinden ayırılmış 6 (altı) coğrafi bölge
 bulunmaktadır.
+
+
+
+boundary fill algoritması kullanıldı.
